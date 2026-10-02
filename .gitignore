@@ -1,1 +1,8 @@
 .DS_Store
+
+# 回归战役与观察账本：本地质检档案，不上库（用户 2026-10-03 01:19 拍板）
+references/regression-*
+references/release-observation-log.md
+examples/sample-0[5-9]*.md
+examples/sample-1*.md
+examples/sample-2*.md
